@@ -11,3 +11,13 @@ int main(){
 
 ```
 
+![cute Dog](https://c.tenor.com/uj4Cnt7RVE0AAAAM/fatdog-dog.gif)
+
+[google](https://www.google.com)
+
+**dfgjl**
+
+*jkljkhlh*
+
+<img href="https://c.tenor.com/uj4Cnt7RVE0AAAAM/fatdog-dog.gif">
+
